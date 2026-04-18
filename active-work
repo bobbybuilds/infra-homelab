@@ -1,1 +1,124 @@
+# ⚙️ Active Work – Command Center
 
+This file is my **live operating log** for the Infra Homelab.
+
+Every time I sit down to work, I update this file.
+
+Purpose:
+- Stay aligned
+- Track progress
+- Eliminate guesswork
+- Maintain momentum
+
+This is not for ideas. This is for **execution**.
+
+---
+
+# 🎯 Current Focus
+
+> Define the ONE main objective right now.
+
+**Primary Objective:**
+- [ ] Build and stabilize core homelab infrastructure
+
+---
+
+# 🚧 Active Tasks
+
+## 🔥 High Priority (Do First)
+
+- [ ] Set up Docker environment
+- [ ] Configure MIMO antennas for improved bandwidth
+- [ ] Establish secure remote access (SSH + Cloudflare tunnel)
+- [ ] Begin internal network segmentation
+
+---
+
+## ⚙️ In Progress
+
+> Tasks currently being worked on
+
+- [ ] (Update as you actively work)
+
+---
+
+## ⏳ Queued (Next Up)
+
+> Tasks ready to move into active work
+
+- [ ] Build backup system
+- [ ] Deploy monitoring/logging solution
+- [ ] Begin email server research
+
+---
+
+## 🧪 Testing / Experimentation
+
+> Things being tested before becoming permanent
+
+- [ ] Evaluate container setups (Docker vs alternatives)
+- [ ] Test remote administration workflows
+
+---
+
+# 🧠 Session Log
+
+> Log each work session (keep it simple)
+
+---
+
+## 📅 Session: [DATE]
+
+**What I worked on:**
+- 
+
+**What I completed:**
+- 
+
+**Issues encountered:**
+- 
+
+**Next step:**
+- 
+
+---
+
+# 🚀 Immediate Next Actions
+
+> What to do NEXT when you return (no thinking required)
+
+- [ ] Continue Docker setup
+- [ ] Verify network stability after changes
+- [ ] Document any configuration changes
+
+---
+
+# 📌 Rules
+
+- Always update this file at the start and end of a session
+- Do not overcomplicate entries
+- Keep tasks actionable (no vague ideas)
+- Move completed tasks out of active sections
+- If stuck, define the next smallest step
+
+---
+
+# 🔁 Workflow
+
+1. Open this file  
+2. Review Current Focus  
+3. Execute Active Tasks  
+4. Log Session  
+5. Define Next Actions  
+6. Exit clean  
+
+---
+
+# 🧭 Operator Mindset
+
+- Build with intention  
+- Move with clarity  
+- Document as you go  
+- Progress over perfection  
+
+This system only works if I use it.
