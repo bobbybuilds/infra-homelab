@@ -11,7 +11,7 @@ This is where I design, test, and operate systems that support:
 - Project deployment (including Briteleaf Media and future systems)
 
 This is not theory. Everything here is built, tested, and field-used.
-
+ 
 ---
 
 # 🎯 Purpose
